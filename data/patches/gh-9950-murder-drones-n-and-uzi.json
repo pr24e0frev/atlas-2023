@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "N And Uzi",
+	"description": "N and Uzi are the Main Characters of the Glitch Productions series \"Murder Drones\" which is basically about robots that murder other robots",
+	"links": {
+		"subreddit": [
+			"MurderDrones"
+		]
+	},
+	"path": {
+		"58-59": [
+			[
+				628,
+				440
+			],
+			[
+				673,
+				440
+			],
+			[
+				673,
+				464
+			],
+			[
+				628,
+				464
+			],
+			[
+				628,
+				453
+			],
+			[
+				628,
+				448
+			],
+			[
+				628,
+				449
+			]
+		]
+	},
+	"center": {
+		"58-59": [
+			651,
+			452
+		]
+	}
+}
