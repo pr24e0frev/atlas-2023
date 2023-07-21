@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Flag of Georgia",
+	"description": "Georgia is a Transcontinental Country Connecting West Asia to Eastern Europe in the Southern Caucasus",
+	"links": {
+		"subreddit": [
+			"Sakartvelo"
+		]
+	},
+	"path": {
+		"58-60": [
+			[
+				-196,
+				-190
+			],
+			[
+				-180,
+				-190
+			],
+			[
+				-180,
+				-178
+			],
+			[
+				-196,
+				-178
+			]
+		]
+	},
+	"center": {
+		"58-60": [
+			-188,
+			-184
+		]
+	}
+}
